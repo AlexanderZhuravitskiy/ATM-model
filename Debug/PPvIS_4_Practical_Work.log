@@ -1,0 +1,5 @@
+﻿  Implemention.cpp
+  PPvIS_4_Practical_Work.cpp
+  Создание кода...
+C:\Users\User\source\repos\PPvIS_4_Practical_Work\Implemention.cpp(6,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  PPvIS_4_Practical_Work.vcxproj -> C:\Users\User\source\repos\PPvIS_4_Practical_Work\Debug\PPvIS_4_Practical_Work.exe
